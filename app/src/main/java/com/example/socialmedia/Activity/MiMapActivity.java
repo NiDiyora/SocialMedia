@@ -25,17 +25,7 @@ import com.example.socialmedia.databinding.ActivityMainBinding;
 import com.google.android.material.card.MaterialCardView;
 
 public class MiMapActivity extends AppCompatActivity {
-
-    private static final int MENU3 = 1;
-    private static final int MENU4 = 2;
-    private static final int SUBMENU1 = 3;
-    private static final int SUBMENU2 = 4;
-    private static final int SUBMENU3 = 5;
-    private static final int GROUP1 = 6;
-    private static final int MENU5 = 7;
-    private static final int MENU6 = 8;
     ActivityMainBinding binding;
-    MaterialCardView txttext,imageads,videoads;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
