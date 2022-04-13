@@ -23,4 +23,8 @@
         <item name="android:dropDownHorizontalOffset">-16dp</item>
         <item name="android:dropDownVerticalOffset">20dp</item>
     </style>
+        <array name="initial_slider_values">
+            <item>2000</item>
+            <item>3500</item>
+        </array>
 </resources>

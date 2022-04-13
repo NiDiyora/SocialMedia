@@ -64,6 +64,13 @@ public class MiMapActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        binding.mapFilter.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MiMapActivity.this,MapFilterActivity.class));
+            }
+        });
+
 
         binding.menu.setOnClickListener(new View.OnClickListener() {
             @SuppressLint("RestrictedApi")

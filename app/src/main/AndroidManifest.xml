@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SocialMedia">
         <activity
+            android:name=".Activity.MapFilterActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.Ad_line.View_Ads.All_View_Activity"
             android:exported="false" />
         <activity

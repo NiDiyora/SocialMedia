@@ -6,11 +6,22 @@
         <entry key="..\:/socialmedia/app/src/main/res/drawable-v24/ic_location.xml" value="0.1545" />
         <entry key="..\:/socialmedia/app/src/main/res/drawable-v24/ic_location_menu.xml" value="0.1545" />
         <entry key="..\:/socialmedia/app/src/main/res/drawable-v24/ic_resturent.xml" value="0.1" />
+        <entry key="..\:/socialmedia/app/src/main/res/drawable/ic_checkbox.xml" value="0.1545" />
+        <entry key="..\:/socialmedia/app/src/main/res/drawable/ic_line.xml" value="0.1545" />
         <entry key="..\:/socialmedia/app/src/main/res/drawable/ic_live.xml" value="0.1545" />
         <entry key="..\:/socialmedia/app/src/main/res/drawable/ic_location.xml" value="0.1545" />
         <entry key="..\:/socialmedia/app/src/main/res/drawable/ic_map_icon.xml" value="0.1545" />
+        <entry key="..\:/socialmedia/app/src/main/res/drawable/ic_seekbar_bg.xml" value="0.124" />
+        <entry key="..\:/socialmedia/app/src/main/res/drawable/progress.xml" value="0.124" />
+        <entry key="..\:/socialmedia/app/src/main/res/drawable/progress_default.xml" value="0.124" />
+        <entry key="..\:/socialmedia/app/src/main/res/drawable/thum_colorfull.xml" value="0.124" />
+        <entry key="..\:/socialmedia/app/src/main/res/layout/activity_add_text.xml" value="0.24351851851851852" />
         <entry key="..\:/socialmedia/app/src/main/res/layout/activity_capture_photo.xml" value="0.25416666666666665" />
+        <entry key="..\:/socialmedia/app/src/main/res/layout/activity_create_organization.xml" value="0.11302083333333333" />
+        <entry key="..\:/socialmedia/app/src/main/res/layout/activity_image_advertise.xml" value="0.11302083333333333" />
         <entry key="..\:/socialmedia/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/socialmedia/app/src/main/res/layout/activity_map_filter.xml" value="0.1" />
+        <entry key="..\:/socialmedia/app/src/main/res/layout/activity_organization.xml" value="0.11302083333333333" />
         <entry key="..\:/socialmedia/app/src/main/res/layout/activity_view_ads.xml" value="0.11302083333333333" />
         <entry key="..\:/socialmedia/app/src/main/res/layout/map_pin.xml" value="0.11302083333333333" />
         <entry key="..\:/socialmedia/app/src/main/res/menu/option_menu.xml" value="0.25416666666666665" />
