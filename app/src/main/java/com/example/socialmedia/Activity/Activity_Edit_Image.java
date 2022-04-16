@@ -69,7 +69,6 @@ public class Activity_Edit_Image extends AppCompatActivity {
 
     public void replcaeFragment(Fragment fragment) {
 
-
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
         transaction.replace(R.id.framelayout, fragment);
         transaction.addToBackStack(null);

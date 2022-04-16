@@ -3,12 +3,10 @@ package com.example.socialmedia.Activity;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
-import android.os.Build;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.view.ContextThemeWrapper;
@@ -22,7 +20,6 @@ import com.example.socialmedia.Activity.Ad_line.Video_Advertise_Activity;
 import com.example.socialmedia.CapturePhotoActivity;
 import com.example.socialmedia.R;
 import com.example.socialmedia.databinding.ActivityMainBinding;
-import com.google.android.material.card.MaterialCardView;
 
 public class MiMapActivity extends AppCompatActivity {
     ActivityMainBinding binding;
